@@ -62,6 +62,11 @@ Future enhancements could include:
 - **JavaScript** - Task functionality and interactivity
 - **Local Storage** - Saving tasks locally on the user's browser
 
+## Problems and Solutions
+Branch not merging since it's not sync in after commiting in VS Code.
+Solution: 
+Double check if the branch is synced in
+
 ## Installation
 
 1. Clone this repository to your local machine:
